@@ -5,4 +5,4 @@ The dataset used for this project consists of images categorized into 10 classes
 Downloaded from: 
 https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset
 ## Result
-The model achieved an accuracy of 90.33% on the validation dataset. It demonstrates its effectiveness in accurately classifying images.
+The model achieved an accuracy of 93.41% on the validation dataset. It demonstrates its effectiveness in accurately classifying images.
